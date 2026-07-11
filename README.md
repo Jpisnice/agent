@@ -1,4 +1,4 @@
-# eve-agent-demo
+# agent
 
 A minimal [eve](https://eve.dev/docs) agent (Vercel's durable agent
 framework), structured using the "harness engineering" ideas from
@@ -16,7 +16,7 @@ framework), structured using the "harness engineering" ideas from
 ## What's here
 
 ```
-eve-agent-demo/
+agent/
 ├── package.json
 ├── AGENTS.md                 # map / table of contents
 ├── ARCHITECTURE.md           # domain + layering rules
