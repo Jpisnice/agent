@@ -1,0 +1,13 @@
+{
+  "name": "eve-agent-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "eve dev"
+  },
+  "dependencies": {
+    "eve": "latest",
+    "ai": "latest",
+    "zod": "latest"
+  }
+}
